@@ -11,3 +11,5 @@ The learning courses are divided into tracks (or pathways).
 * Associate
 * Professional
   
+## Chatbot
+Use this chatbot to aid in your learning. With this chatbot, you're able to create prompt templates. These speed up your work flow. Importantly, they can be designed to teach you about the various commercial topics. 
