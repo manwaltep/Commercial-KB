@@ -7,7 +7,7 @@ These guides have been carefully curated and established with the sole purpose o
 # Overview
 The learning courses are divided into tracks (or pathways). 
 
-* Foundations [Foundations](https://github.com/manwaltep/Commercial-KB/blob/main/Foundations.md)
+* [Foundations](https://github.com/manwaltep/Commercial-KB/blob/main/Foundations.md)
 * Associate
 * Professional
   
